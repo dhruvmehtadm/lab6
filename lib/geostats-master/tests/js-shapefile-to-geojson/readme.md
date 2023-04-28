@@ -5,11 +5,11 @@ Inspired by the excellent work by Tom Carden ([http://github.com/RandomEtc/shape
 
 ### Overview
 
-I just got this out there so nothing is minified.  See index.html for an example of order.  All files need to be in the same directory.  This will use Web Workers if the browser support exists.  Not recommended for large files, more of an experiment than anything.
+I just got this out there so nothing is minified. See index.html for an example of order. All files need to be in the same directory. This will use Web Workers if the browser support exists. Not recommended for large files, more of an experiment than anything.
 
 ### Usage
 
-You can use it to parse shapefiles (.shp) or dBase files (.dbf) or both.  Here are some examples.
+You can use it to parse shapefiles (.shp) or dBase files (.dbf) or both. Here are some examples.
 
 Load Shapefile Only
 
@@ -56,7 +56,7 @@ I used the technical descriptions found here to parse the binary:
 
 I plan to implement (time permitting) some custom renderers like SVG or Canvas (besides using OpenLayers) to improve the speed.
 
-Feel free to hack at this, submit bugs, pull requests, and make it better.  If you write a renderer, please push it back and I'll add it to the project.
+Feel free to hack at this, submit bugs, pull requests, and make it better. If you write a renderer, please push it back and I'll add it to the project.
 
 ### License
 
