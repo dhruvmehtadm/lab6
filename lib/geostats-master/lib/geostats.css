@@ -1,6 +1,6 @@
 .geostats-legend div {
-  margin:3px 10px 5px 10px;
-  clear:left;
+  margin: 3px 10px 5px 10px;
+  clear: left;
 }
 
 .geostats-legend-title {
@@ -17,8 +17,8 @@
   width: 20px;
 }
 
-.geostats-legend-counter { 
+.geostats-legend-counter {
   font-size: 0.8em;
-  color:#666;
+  color: #666;
   font-style: italic;
 }
